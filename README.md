@@ -44,4 +44,13 @@ Once both the server and client are running, you can interact with the applicati
 Note
 The provided steps are basic and might require adjustments based on your specific project setup.
 For detailed information about the client, refer to the README.md in the client directory.
-Feel free to use and modify this README as needed for your project
+
+
+Note: This is a group project 
+Group members
+
+David Animashaun
+Daniyal Sohail
+Gabe Doersam
+Joey Hardester
+Ajmal Kiggundu
